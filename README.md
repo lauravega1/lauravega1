@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laura
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML / CSS / JS
+- 👀 I’m interested in Back End Development
+- 🌱 I’m currently learning JS / PostregSQL / Express
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She / Her
